@@ -1,0 +1,15 @@
+C:\desenvolvimento.projetos\calculadora.publico\bin\Debug\net6.0\calculadora.publico.exe
+C:\desenvolvimento.projetos\calculadora.publico\bin\Debug\net6.0\calculadora.publico.deps.json
+C:\desenvolvimento.projetos\calculadora.publico\bin\Debug\net6.0\calculadora.publico.runtimeconfig.json
+C:\desenvolvimento.projetos\calculadora.publico\bin\Debug\net6.0\calculadora.publico.dll
+C:\desenvolvimento.projetos\calculadora.publico\bin\Debug\net6.0\calculadora.publico.pdb
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\calculadora.publico.csproj.AssemblyReference.cache
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\calculadora.publico.GeneratedMSBuildEditorConfig.editorconfig
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\calculadora.publico.AssemblyInfoInputs.cache
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\calculadora.publico.AssemblyInfo.cs
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\calculadora.publico.csproj.CoreCompileInputs.cache
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\calculadora.publico.dll
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\refint\calculadora.publico.dll
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\calculadora.publico.pdb
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\calculadora.publico.genruntimeconfig.cache
+C:\desenvolvimento.projetos\calculadora.publico\obj\Debug\net6.0\ref\calculadora.publico.dll
