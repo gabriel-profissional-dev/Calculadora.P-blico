@@ -1,2 +1,2 @@
-# Calculadora.P-blico
+# Calculadora.Publico
 Calculadora Simples - Projeto em andamento
